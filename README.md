@@ -1,20 +1,21 @@
-
-### 🧔 Hi there, I’m Abdullah Mamun 👋  
+# 👋 Hi there, I’m Abdullah Mamun
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
-I'm a passionate **Cybersecurity Enthusiast**, **Developer**, and **Open Source Advocate** from 🇧🇩 Bangladesh.  
-I love exploring the intersection between **security and development**—always learning, always hacking (the ethical way 😉).
+I'm a passionate **Business Analyst**, **Problem Solver**, and **Tech Enthusiast** based in the 🇬🇧 United Kingdom.  
+I thrive at the intersection of **data, strategy, and technology**, turning insights into impactful business decisions.
+
+---
 
 ### 👨‍💻 A bit about me:
 
-- 🔐 Currently diving deep into **penetration testing**, **ethical hacking**, and **CTFs**.
-- 💻 Skilled in **Python**, **JavaScript**, and **Bash**.
-- ☁️ Experimenting with **cloud security** (AWS, Azure).
-- 🌱 Learning more about **malware analysis** and **reverse engineering**.
-- ✍️ Blogging my findings & tips on cybersecurity.
-- 💬 Ask me about Linux, security tools, or Git!
-- ⚡ Fun fact: I once hacked my own Wi-Fi to prove a point. 😎
+- 📊 Currently focused on **requirement gathering**, **process optimisation**, and **data-driven decision making**.  
+- 🛠 Proficient in **SQL**, **Excel**, **Power BI**, and **Python for data analysis**.  
+- 🧠 Experienced in **creating user stories**, **use cases**, and **workflow diagrams** to bridge gaps between stakeholders and developers.  
+- 🗂 Skilled at working with **Agile teams**, using **Jira**, **Confluence**, and **Scrum methodologies**.  
+- ✍️ Sharing insights on **business analysis**, **digital transformation**, and **emerging tech trends**.  
+- 💬 Ask me about BA tools, data modelling, or translating tech-speak into business value!  
+- ⚡ Fun fact: I once redesigned a broken workflow that boosted team efficiency by 30%. 😎  
 
 ---
 
@@ -24,10 +25,10 @@ I love exploring the intersection between **security and development**—always 
   <a href="https://github.com/abdullahmamun-cyber" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abdullahmamun-cyber" target="_blank">
+  <a href="http://www.linkedin.com/in/abdullahmamun0" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abdullahmamun.cyber@gmail.com" target="_blank">
+  <a href="mailto:abdullahmamunglobal@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/abdullahmcyber" target="_blank">
@@ -37,16 +38,16 @@ I love exploring the intersection between **security and development**—always 
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Tools & Technologies
 
 <p>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Lucidchart-FA8000?style=for-the-badge&logo=lucidchart&logoColor=white"/>
 </p>
 
 ---
@@ -63,4 +64,4 @@ I love exploring the intersection between **security and development**—always 
 
 ### 🎯 Motto
 
-> “Stay curious. Stay secure.” 🕶️
+> “Ask the right questions. Deliver the right solutions.” 📌
