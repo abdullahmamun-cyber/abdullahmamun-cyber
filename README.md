@@ -1,72 +1,28 @@
-<h1 align="center">Hi, I'm Abdullah Al Mamun</h1>
-<h3 align="center">📊 Business Analyst | SQL & BI Enthusiast | Footballer in Free Time</h3>
+<h1 align="center">Hi 👋, I'm Abdullah Al Mamun</h1>
+<h3 align="center">A passionate Business Analyst from UK</h3>
 
-<pre align="center" style="font-size: 2rem;">
-🦅
-</pre>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahmamun-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmamun-cyber" /> </p>
 
-<p align="center">
-  <a href="mailto:abdullahmamunglobal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-abdullahmamunglobal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="http://www.linkedin.com/in/abdullahmamun0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahmamun-cyber" alt="abdullahmamun-cyber" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🤝 I’m looking for help with **Data Visualization**
+
+- 📫 How to reach me **abdullahmamunglobal@gmail.com**
+
+- ⚡ Fun fact **I love football**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abdullahmamun0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahmamun0" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 🧠 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahmamun-cyber&show_icons=true&locale=en&layout=compact" alt="abdullahmamun-cyber" /></p>
 
-- 💼 Business Analyst focused on **data-driven decision-making**  
-- 📈 Builds impactful **dashboards, KPIs**, and reports  
-- 🧩 Expert in **SQL, Power BI, Excel**, and storytelling with data  
-- ⚽ Passionate about strategy in **both business and football**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahmamun-cyber&show_icons=true&locale=en" alt="abdullahmamun-cyber" /></p>
 
----
-
-## 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## 🚀 Highlight Projects
-
-| 📁 Project | 📝 Description |
-|-----------|----------------|
-| **Sales Dashboard – Power BI** | Visual insights on sales, profit, and growth trends |
-| **Customer Retention Analysis – SQL** | Query-based churn prediction and analysis |
-| **KPI Tracker – Excel** | Smart dashboard for real-time KPI tracking |
-
-> 🔗 *Link these to your real GitHub repos or portfolio*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahmamun0&show_icons=true&theme=gruvbox&hide_title=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahmamun0&theme=gruvbox&hide_border=true" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-- 📫 Email: [abdullahmamunglobal@gmail.com](mailto:abdullahmamunglobal@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/abdullahmamun0](http://www.linkedin.com/in/abdullahmamun0)
-
----
-
-## ⚽ Off the Clock
-
-When I'm not analyzing data or building dashboards,  
-you’ll find me on the football field — because **strategy wins everywhere**.
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahmamun-cyber&" alt="abdullahmamun-cyber" /></p>
