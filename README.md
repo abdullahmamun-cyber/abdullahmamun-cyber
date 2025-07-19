@@ -10,7 +10,7 @@ I thrive at the intersection of **data, strategy, and technology**, turning insi
 ### 👨‍💻 A bit about me:
 
 - 📊 Currently focused on **requirement gathering**, **process optimisation**, and **data-driven decision making**.  
-- 🛠 Proficient in **SQL**, **Excel**, **Power BI**, and **Python for data analysis**.  
+- 🛠 Proficient in **Excel**, **Power BI**, and **Python for data analysis**.  
 - 🧠 Experienced in **creating user stories**, **use cases**, and **workflow diagrams** to bridge gaps between stakeholders and developers.  
 - 🗂 Skilled at working with **Agile teams**, using **Jira**, **Confluence**, and **Scrum methodologies**.  
 - ✍️ Sharing insights on **business analysis**, **digital transformation**, and **emerging tech trends**.  
@@ -31,9 +31,6 @@ I thrive at the intersection of **data, strategy, and technology**, turning insi
   <a href="mailto:abdullahmamunglobal@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/abdullahmcyber" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -41,13 +38,9 @@ I thrive at the intersection of **data, strategy, and technology**, turning insi
 ### 🛠 Tools & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Lucidchart-FA8000?style=for-the-badge&logo=lucidchart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ---
