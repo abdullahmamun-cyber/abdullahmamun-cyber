@@ -2,6 +2,10 @@
 <h3 align="center">Business Analyst | SQL & BI Enthusiast | Footballer in Free Time</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Flying eagle with code" width="300" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="typing gif">
 </p>
 
@@ -44,7 +48,7 @@
 | 🧠 **[Customer Retention Analysis – SQL](#)** | Query-based churn prediction and insights |
 | 📈 **[KPI Tracker – Excel](#)** | A smart KPI dashboard for daily business ops |
 
-> 📝 *Replace `#` with links to your actual repos or public dashboards*
+> 📝 *Replace `#` with your real project links*
 
 ---
 
@@ -67,5 +71,3 @@
 ### ⚽ Off the Clock
 
 > When I’m not analyzing data, I’m probably on the football field — because strategy wins both in business and in sports.
-
----
