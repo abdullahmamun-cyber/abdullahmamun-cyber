@@ -9,13 +9,11 @@ I thrive at the intersection of **data, strategy, and technology**, turning insi
 
 ### 👨‍💻 A bit about me:
 
-- 📊 Currently focused on **requirement gathering**, **process optimisation**, and **data-driven decision making**.  
-- 🛠 Proficient in **Excel**, **Power BI**, and **Python for data analysis**.  
-- 🧠 Experienced in **creating user stories**, **use cases**, and **workflow diagrams** to bridge gaps between stakeholders and developers.  
-- 🗂 Skilled at working with **Agile teams**, using **Jira**, **Confluence**, and **Scrum methodologies**.  
-- ✍️ Sharing insights on **business analysis**, **digital transformation**, and **emerging tech trends**.  
-- 💬 Ask me about BA tools, data modelling, or translating tech-speak into business value!  
-- ⚡ Fun fact: I once redesigned a broken workflow that boosted team efficiency by 30%. 😎  
+- 🎓 Business Analyst with an MBA (Distinction) in Business Analytics and a proven track record in data-driven decision-making, compliance, and cross-functional execution.  
+- 💼 Former Executive Officer at Datapath Ltd, experienced in U.S. pension processing, fintech operations, and high-stakes documentation.  
+- 📊 Adept in Excel, Power BI, and performance analysis, leveraging data to drive impactful business insights.  
+- 🚀 Successfully led a £900K AI/IoT smart home project, blending innovation with commercial insight.  
+- 🌍 Passionate about driving strategic outcomes in fast-paced, global environments.  
 
 ---
 
